@@ -1,18 +1,31 @@
 
 # QuickFile - Fast File Launcher
 
+🌐 [简体中文](README_zh-CN.md) | [English](README.md)
+
 ## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Usage Guide](#usage-guide)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Development Roadmap](#development-roadmap)
-- [Contribution](#contribution)
-- [License](#license)
+- [QuickFile - Fast File Launcher](#quickfile---fast-file-launcher)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [System Requirements](#system-requirements)
+  - [Installation](#installation)
+    - [1. Clone or Download the Repository](#1-clone-or-download-the-repository)
+    - [2. Run the Program](#2-run-the-program)
+      - [**Windows**](#windows)
+      - [**macOS/Linux**](#macoslinux)
+  - [Usage Guide](#usage-guide)
+    - [1. Basic Workflow](#1-basic-workflow)
+    - [2. Keyboard Shortcuts](#2-keyboard-shortcuts)
+    - [3. History Management](#3-history-management)
+  - [Configuration](#configuration)
+    - [1. Exclude Directories/File Types](#1-exclude-directoriesfile-types)
+    - [2. Index Management](#2-index-management)
+  - [Troubleshooting](#troubleshooting)
+  - [Development Roadmap](#development-roadmap)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 ## Overview
 
@@ -40,7 +53,7 @@
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/QuickFile.git
+git clone https://github.com/AKAAKUNLEE/QuickFile.git
 cd QuickFile
 ```
 
@@ -127,4 +140,4 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
-**Contact**: For feedback or support, open an issue on the [GitHub repository](https://github.com/your-username/QuickFile) or email `your-email@example.com`.
+**Contact**: For feedback or support, open an issue on the [GitHub repository](https://github.com/AKAAKUNLEE/QuickFile.git) or email `WSDJLAK@163.com`.
